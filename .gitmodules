@@ -1,0 +1,3 @@
+[submodule "ensemble"]
+	path = ensemble
+	url = git@github.com:tpwonglab/social-valence-ensemble.git
