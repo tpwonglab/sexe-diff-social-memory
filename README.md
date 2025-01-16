@@ -18,3 +18,6 @@ MATLAB codes in this folder can be used to generate data for figures in the publ
 
 • After running all ensemble analyses, load all variables from the raw and ensb data file (e.g. 1144_SDT_raw.mat and 1144_SDT_ensb.mat), run “output_data.m” to extract values for Fig. 4 and Fig. S10 of the paper.
 
+**SVM analysis**
+
+Use the raw data for SVM analysis (data with *Amanda.mat) from the Zenodo repository and follow the readme in the SVM analysis folder.
